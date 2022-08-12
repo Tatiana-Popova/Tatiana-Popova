@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://img.freepik.com/free-vector/cartoon-tiny-young-programmers-and-coders-working-with-computers-flat-illustration_74855-16820.jpg?w=1380&t=st=1660324646~exp=1660325246~hmac=ba6550867c0e3f23c4f01c076575c605140fb4d8d09be4e195507fade037490c
 <!--
 **Tatiana-Popova/Tatiana-Popova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
