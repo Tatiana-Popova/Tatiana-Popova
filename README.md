@@ -1,17 +1,18 @@
-### Hi there 👋
-<img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://img.freepik.com/free-vector/cartoon-tiny-young-programmers-and-coders-working-with-computers-flat-illustration_74855-16820.jpg?w=1380&t=st=1660324646~exp=1660325246~hmac=ba6550867c0e3f23c4f01c076575c605140fb4d8d09be4e195507fade037490c)" width="100"/>
+### Junior front-end developer
+Looking for a job. Consider all work formats (office/hybrid/remote).   
+Russia, Saratov. Ready to relocate.
 
-<!--
-**Tatiana-Popova/Tatiana-Popova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+Skills: 
+* JavaScript, ES6+;
+* HTML, CSS;
+* Git, GitHub, GitHub Actions;
+* Automated testing (Jest);
+* Databases (SQL, MongoDB);
+* jQuery;
+* MVC;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact me:
+ * email: tatianapopova0103@gmail.com 
+ * Telegram: @TatianaPd
