@@ -2,7 +2,6 @@
 Looking for a job. Consider all work formats (office/hybrid/remote).   
 Russia, Saratov. Ready to relocate.
 
-___
 Skills: 
 * JavaScript, ES6+;
 * HTML, CSS;
