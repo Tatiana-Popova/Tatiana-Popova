@@ -1,4 +1,4 @@
-### Junior front-end developer
+### Junior Frontend Developer
 Looking for a job. Consider all work formats (office/hybrid/remote).   
 Russia, Saratov. Ready to relocate.
 
@@ -11,7 +11,7 @@ Skills:
 * jQuery;
 * Git, GitHub, GitHub Actions;
 * Automated testing (Jest);
-* Databases (SQL, MongoDB);
+* Databases (SQL, MongoDB).
 
 
 #### Contact me:
