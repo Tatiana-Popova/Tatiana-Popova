@@ -4,10 +4,11 @@ Russia, Saratov. Ready to relocate.
 
 Skills: 
 * JavaScript, ES6+;
-* HTML, CSS;
+* HTML, CSS, LESS;
 * React;
 * Redux (@reduxjs/toolkit);
 * MVC;
+* TypeScript;
 * jQuery;
 * Git, GitHub, GitHub Actions;
 * Automated testing (Jest);
