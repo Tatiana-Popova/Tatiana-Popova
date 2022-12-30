@@ -1,6 +1,6 @@
 ### Junior Frontend Developer
 Looking for a job. Consider all work formats (office/hybrid/remote).   
-Russia, Saratov. Ready to relocate.
+Russia, Moscow. Ready to relocate.
 
 Skills: 
 * JavaScript, ES6+;
