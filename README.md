@@ -1,7 +1,6 @@
-### Junior Frontend Developer
+### Frontend Developer
 Russia, Moscow.
 
-Skills: 
 * JavaScript, ES6+;
 * HTML, CSS, LESS;
 * React;
