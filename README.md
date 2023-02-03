@@ -18,7 +18,7 @@
 
 #### 📫 How to reach me:
 
-| telegram    | telegram       |
+| telegram    | email       |
 | ------------| -------------- |
 | @TatianaPd  | tatianapopova0103@gmail.com  |
 
