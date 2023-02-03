@@ -1,4 +1,3 @@
-development
 ### Hi, my name is Tatiana 👋 and I ❤️ Frontend-development
 
 <img src = 'https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif' alt = 'Awesome Matrix Code' align='right' width="130px"/>
