@@ -1,18 +1,25 @@
-### Frontend Developer
-Russia, Moscow.
+development
+### Hi, my name is Tatiana 👋 and I ❤️ Frontend-development
 
-* JavaScript, ES6+;
-* HTML, CSS, LESS;
-* React;
-* Redux (@reduxjs/toolkit);
-* MVC;
-* TypeScript;
-* jQuery;
-* Git, GitHub, GitHub Actions;
-* Automated testing (Jest);
-* Databases (SQL, MongoDB).
+<img src = 'https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif' alt = 'Awesome Matrix Code' align='right' width="130px"/>
 
+📍 Russia, Moscow.
 
-#### Contact me:
- * email: tatianapopova0103@gmail.com 
- * Telegram: @TatianaPd
+#### Skills 🛠️
+- JavaScript, ES6+;
+- HTML, CSS, LESS;
+- React;
+- Redux (@reduxjs/toolkit);
+- MVC;
+- TypeScript;
+- jQuery;
+- Git, GitHub, GitHub Actions;
+- Automated testing (Jest);
+- Databases (SQL, MongoDB).
+
+#### 📫 How to reach me:
+
+| telegram    | telegram       |
+| ------------| -------------- |
+| @TatianaPd  | tatianapopova0103@gmail.com  |
+
